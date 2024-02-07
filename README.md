@@ -1,2 +1,2 @@
-# CyberSoft-DA12-Exercise-Week-5
+# CyberSoft-DA12-Exercise
  CyberSoft Academy Data Analyst 12 Exercise Week 5
